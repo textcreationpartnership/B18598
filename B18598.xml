@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of Mr. William Cooke, &amp;c.</title>
+            <author>Cooke, William, Parliamentary candidate for Gloucester.</author>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18598</idno><idno type="EEBO-CITATION">99887475</idno>
+  <idno type="VID">190433</idno>
+  <idno type="EEBO-PROQUEST">2240895051</idno>
+  
+            <idno type="STC">Wing C958A</idno>
+            <idno type="STC">Interim Tract Supplement Guide L.R.305.a.7.[7]</idno>
+            <idno type="STC">ESTC R227702</idno>
+            <idno type="PROQUEST">ocm99887475</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99887475e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18598)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 190433)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C21:2[34])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of Mr. William Cooke, &amp;c.</title>
+                  <author>Cooke, William, Parliamentary candidate for Gloucester.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1675]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Cooke accuses Col. Norwood of fraud in the April 19, 1675 election to fill the seat vacated by the death of Sir Edward Massey.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Norwood, --  Colonel --  Early works to 1800.</term>
+               <term type="personal_name">Cooke, William, --  Parliamentary candidate for Gloucester --  Early works to 1800.</term>
+               <term type="topical_term">Elections --  Corrupt practices --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="statement">
+            <pb facs="tcp:190433:1"/>
+            <head>The CASE of Mr. WILLIAM COOKE, &amp;c.</head>
+            <p>SIR <hi>Edward Mascy</hi> being dead, a Writ issued for a new Election.</p>
+            <p>The said <hi>William Cooke,</hi> and Col. <hi>Henry Norwood</hi> stood in Competition <hi>April</hi> 19. 1675. Four indifferent Gentlemen were chosen, who by mu<g ref="char:EOLhyphen"/>tual Consent were to methodize and order the proceeding at the Election, which was to ensue the day following.</p>
+            <p>
+               <hi>April</hi> 20th. 1675. Being the day of Election; the County Court was call'd, and the Writ ready, as also the agreement of the persons aforesaid, the appointed Managers of the Election, which Mr. <hi>Cooke</hi> submitted to; but Col. <hi>Norwood,</hi> and the elder Sheriff refused to conform to them, but proceeded in a disorderly manner to a Poll, which occasioned so great a confusion, that Sir <hi>Robert Atkins,</hi> and some other Gentlemen interposed; and then a more regular way of proceeding being agreed upon, that Mr. <hi>Cooke</hi> should Poll 5, and then Col. <hi>Norwood</hi> 5, and so to continue till one side should Poll out all their whole number; which continued till about 11 of the Clock, when Col. <hi>Norwood</hi> having no more ready to be Poll'd, intimation being given thereof to the said elder Sheriff, he abruptly rose, without making any Proclamation; and being followed by Col. <hi>Norwood</hi> and his Friends, remov'd into the Colledge Church-yard.</p>
+            <p>The Mayor, the younger Sheriff, Mr. <hi>Cooke</hi> and his party continuing in the Court, Poll'd on according to the agreement, till Mr. <hi>Cooke</hi> having Poll'd above 50 more than Col. <hi>Norwood:</hi> All then concluded the Election over, the rest of Mr. <hi>Cooks</hi> Voices departed, and went about their own private concerns.</p>
+            <p>About 12. of the Clock, the elder Sheriff, and Col. <hi>Norwood</hi> return'd to the Court, and proceeded to Poll again, with a croud of people after him, and without regularity, Poll'd some who had no Voices, some who had been Poll'd before; At which, Mr. <hi>Cooke</hi> took exceptions on the place; But the elder Sheriff refused that he would adjourn to the Election-cham<g ref="char:EOLhyphen"/>ber, alledging, he was much tired and spent, and there he would hear all exceptions, and examine the List e're he clos'd it, and made his Return.</p>
+            <p>About 1 a Clock the Court adjourned to meet at the Election-chamber at 3, in order to the clearing the Poll.</p>
+            <p>According to the Sheriffs own appointment, Mr. <hi>Cooke</hi> and his friends met at the Election-chamber, where, after half an hours stay, the said She<g ref="char:EOLhyphen"/>riff, and Col. <hi>Norwood,</hi> &amp;c. came, where some of Mr. <hi>Cooks</hi> Voices hea<g ref="char:EOLhyphen"/>ring Col. <hi>Norwood</hi> had Poll'd after they had left the Court, then crav'd the Poll, and were not admitted, though they had a right to Elect beyond all exceptions.</p>
+            <p>Mr. <hi>Cooke</hi> then offered several exceptions against Col. <hi>Norwords</hi> Poll; but was positively refus'd by the said Sheriff (though that meeting was by his own appointment for that purpose,) saying; That he was resolved to Seal Col. <hi>Norwoods</hi> Indentures, and return him, and then let Mr. <hi>Cooke</hi> make his exceptions at his leasure.</p>
+            <p>And in pursuance of that resolution, he made a Declaration of Col. <hi>Norwoods</hi> Election, and sealed the Indenture accordingly.</p>
+            <p>Though Mr. <hi>Cooke</hi> can make it appear, that several of his Voices were obtained by Threats and Menaces, several by Bribery, several twice, nay some thrice poll'd, and few such as paid to Church and Poor.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
